@@ -1,0 +1,20 @@
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csprojAssemblyReference.cache
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.mandelbrot.resources
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.Properties.Resources.resources
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csproj.GenerateResource.cache
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csproj.CoreCompileInputs.cache
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.exe.config
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.exe
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.pdb
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.exe
+C:\Users\GS60\source\repos\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.pdb
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.exe.config
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.exe
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\bin\Debug\mandelbrotSet.pdb
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csprojAssemblyReference.cache
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.mandelbrot.resources
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.Properties.Resources.resources
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csproj.GenerateResource.cache
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.csproj.CoreCompileInputs.cache
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.exe
+D:\College Year 4\CS480\Assignment 34\mandelbrotSet\mandelbrotSet\obj\Debug\mandelbrotSet.pdb
